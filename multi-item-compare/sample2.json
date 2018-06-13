@@ -1,0 +1,14 @@
+{
+    "title":"项目维护次数统计",
+    "valueDescription":[
+        {"title":"维护次数"}
+    ],
+
+    "data":[
+        {"title":"南京海关","value":[11]},
+        {"title":"中信证券","value":[22]},
+        {"title":"海南国土厅","value":[33]},
+        {"title":"昆明海关","value":[24]},
+        {"title":"武汉浙商行","value":[26]}
+    ]
+}
