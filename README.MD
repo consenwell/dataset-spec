@@ -5,13 +5,13 @@
 
 命名词典:
 ----------------------------------
-title:标题
-description:描述
-data:数据
-item:项
-value:值
-unit:单位
-
+* title:标题
+* description:描述
+* data:数据
+* item:项
+* value:值
+* unit:单位
+ 
 
 多项比较 - multi-item-compare
 -----------------------------------

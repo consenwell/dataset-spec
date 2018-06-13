@@ -5,18 +5,18 @@
 
 结构说明
 -----------------------------------
-multi-item-compare
-    title:string 
-    valueDescription: array of ValueDescriptionItem
-    data: array of DataItem
-
-ValueDescriptionItem:
-    title:string [opt]
-    unit:string [opt]
-
-DataItem:
-    title:string
-    value: array of number
+> multi-item-compare
+>     title:string 
+>     valueDescription: array of ValueDescriptionItem
+>     data: array of DataItem
+> 
+> ValueDescriptionItem:
+>     title:string [opt]
+>     unit:string [opt]
+> 
+> DataItem:
+>     title:string
+>     value: array of number
 
 
 其他说明
