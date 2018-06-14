@@ -3,7 +3,7 @@
     "valueDescription":[
         {"title":"维护次数"}
     ],
-
+    "highAlarmValue":20,
     "data":[
         {"title":"南京海关","value":[11]},
         {"title":"中信证券","value":[22]},

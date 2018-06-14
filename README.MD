@@ -11,6 +11,11 @@
 * item:项
 * value:值
 * unit:单位
+* high:高
+* low:低
+* alarm:报警
+* max:最大
+* min:最小
  
 
 多项比较 - multi-item-compare

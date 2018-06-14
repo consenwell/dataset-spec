@@ -10,6 +10,10 @@ multi-item-compare
     title:string 
     valueDescription: array of ValueDescriptionItem
     data: array of DataItem
+    maxValue: number [opt]
+    minValue: number [opt]
+    highAlarmValue: number [opt]
+    lowAlarmValue: number [opt]
 
 ValueDescriptionItem:
     title:string [opt]
